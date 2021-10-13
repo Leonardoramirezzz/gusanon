@@ -8,4 +8,6 @@ Curso: Ciencia de la Computación I - CCOMP2-1 - Semestre 2021-2 Profesor: DSc. 
 - Diego Enrique Zegarra Zenteno
 - Rodrigo del Piero Meléndez Flores
 - Jair Lino Paul Quispe Rodriguez
+
+
 Arequipa - Perú
