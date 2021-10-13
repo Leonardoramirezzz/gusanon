@@ -1,4 +1,4 @@
-# gusanon
+# Snake - Grupo 5
 
 ------------- Snake ----------------
 
